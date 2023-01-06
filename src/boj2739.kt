@@ -1,0 +1,1 @@
+fun main()=readln().toInt().let{for(i in 1..9)println("$it * $i = "+it*i)}
