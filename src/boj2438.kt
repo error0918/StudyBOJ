@@ -1,0 +1,1 @@
+fun main()=repeat(readln().toInt()){println("*".repeat(it+1))}
