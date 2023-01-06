@@ -1,0 +1,1 @@
+fun main()=print(if(readln().toInt()==(1..readln().toInt()).sumOf{readln().split(" ").let{it[0].toInt()*it[1].toInt()}})"Yes" else "No")
