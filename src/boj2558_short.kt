@@ -1,0 +1,1 @@
+fun main()=print((0..1).sumOf{readln().toInt()})

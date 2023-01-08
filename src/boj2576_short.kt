@@ -1,0 +1,1 @@
+fun main()=List(7){readln().toInt()}.filter{it%2==1}.run{println(if(isEmpty())-1 else "${sum()} "+min())}
