@@ -1,0 +1,1 @@
+fun main()=print(readln().reversed().split(' ').max())
