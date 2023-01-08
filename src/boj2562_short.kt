@@ -1,0 +1,1 @@
+fun main()=Array(9){readln().toInt()}.run{print("${max()}\n${indexOf(max())+1}")}

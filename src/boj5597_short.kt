@@ -1,0 +1,1 @@
+fun main()=List(28){readln().toInt()}.run{(1..30).filter{!contains(it)}.forEach(::println)}
