@@ -1,0 +1,1 @@
+fun main()=print(List(5){readln().toInt()/5}.sumOf{maxOf(8,it)})
