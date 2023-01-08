@@ -1,0 +1,1 @@
+fun main(){readln();print(readln().sumOf{it.digitToInt()})}

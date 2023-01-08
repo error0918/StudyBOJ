@@ -1,0 +1,1 @@
+fun main()=print(readln()[0].code)
