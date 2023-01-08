@@ -1,0 +1,1 @@
+fun main()=readln().split(" ").map{it.toInt()}.let{(a,b,c)->print(if(c>b)a/(c-b)+1 else-1)}

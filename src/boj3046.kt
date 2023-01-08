@@ -1,0 +1,1 @@
+fun main()=print(readln().split(" ").map{it.toInt()}.let{it[1]*2-it[0]})
