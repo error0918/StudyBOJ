@@ -1,0 +1,1 @@
+fun main() = List(readln().toInt()) { readln().toShort() }.sorted().forEach(::println)
