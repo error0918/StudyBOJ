@@ -1,0 +1,1 @@
+fun main()=repeat(readln().toInt()){println("Case ${it+1}: "+(readln().sumOf{it.code}-128))}
