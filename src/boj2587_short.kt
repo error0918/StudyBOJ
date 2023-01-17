@@ -1,1 +1,1 @@
-fun main()=List(5){readln().toInt()}.run{print("${average().toInt()}\n"+sorted()[2])}
+fun main()=List(5){readln().toInt()}.run{print("${sum()/5}\n"+sorted()[2])}
