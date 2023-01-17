@@ -1,0 +1,1 @@
+fun main()=print(readln().trim().let{if(it.isEmpty()) 0 else it.split(" ").size})
