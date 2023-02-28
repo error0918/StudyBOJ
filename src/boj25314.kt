@@ -1,0 +1,1 @@
+fun main()=print("long ".repeat(readln().toInt()/4)+"int")
